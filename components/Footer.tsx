@@ -12,6 +12,7 @@ const Footer = () => {
             src='/logo.svg' alt="logo"
             width={118}
             height={18} />
+            <p className="text-base text-gray-700"></p>
         </div>
       </div>
     </footer>
