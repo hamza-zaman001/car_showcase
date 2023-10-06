@@ -13,5 +13,5 @@ export {
   Footer, 
   SearchBar, 
   CustomFilter,
-  SearchManufacturer
+  SearchManufacturer,
 };
