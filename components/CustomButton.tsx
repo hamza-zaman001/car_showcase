@@ -8,7 +8,7 @@ const CustomButton = ({ title, containerStyles, handleClick, btnType }: CustomBu
     <button
       disabled={false}
       type={btnType || "button"}
-      className={`custom-btn ${containerStyles}`}
+      className={`custom-btn hover:scale-110 ease-in duration-300 ${containerStyles}`}
       onClick={handleClick}
     >
       <span className={`flex-1`}>
