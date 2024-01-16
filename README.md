@@ -25,5 +25,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Each car listing provides detailed information, ensuring users have access to all the data they need to make an informed rental choice. 'Car Hub' is the go-to solution for your car rental needs.
 
 This project is live and can be accessed at [carhub-by-webuzk.netlify.app/](carhub-by-webuzk.netlify.app/).
+If the given link doesn't work then try using the link given in the About section of this repository. Thanks
 
 Created and maintained by Hamza Zaman Khan.
